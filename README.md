@@ -27,7 +27,7 @@ A Python implementation showing one complete step of gradient descent with backp
 - **Activation**: sigmoid(z) = 1/(1 + e^(-z))
 - **Loss**: L = (y - ŷ)²
 - **Gradients**: Computed using chain rule
-- Additional notes behind the mathematics can be found in [Math.pdf]
+- Additional notes behind the mathematics can be found in [Math.pdf](https://github.com/esinocchi/ML_Math/blob/main/Math.pdf)
 
 ## Dependencies
 ```python
